@@ -1,0 +1,56 @@
+[
+  {
+    "_id": { "$oid": "012345678901234567890011" },
+    "name": "a1",
+    "sqft": 750,
+    "bedrooms": 1,
+    "floor": 1,
+    "rent": 850,
+    "renter": "",
+    "rentCollected": 0
+  },
+
+  {
+    "_id": { "$oid": "012345678901234567890022" },
+    "name": "b1",
+    "sqft": 1750,
+    "bedrooms": 2,
+    "floor": 2,
+    "rent": 2000,
+    "renter": "012345678901234567891111",
+    "rentCollected": 0
+  },
+
+  {
+    "_id": { "$oid": "012345678901234567890033" },
+    "name": "c1",
+    "sqft": 1700,
+    "bedrooms": 2,
+    "floor": 3,
+    "rent": 1650,
+    "renter": "",
+    "rentCollected": 0
+  },
+
+  {
+    "_id": { "$oid": "012345678901234567890044" },
+    "name": "d1",
+    "sqft": 1600,
+    "bedrooms": 4,
+    "floor": 3,
+    "rent": 1950,
+    "renter": "",
+    "rentCollected": 0
+  },
+
+  {
+    "_id": { "$oid": "012345678901234567890055" },
+    "name": "e1",
+    "sqft": 900,
+    "bedrooms": 3,
+    "floor": 3,
+    "rent": 1450,
+    "renter": "",
+    "rentCollected": 0
+  }
+]
